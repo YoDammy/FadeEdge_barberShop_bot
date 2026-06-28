@@ -6,7 +6,7 @@ A conversational Telegram bot that handles appointment bookings for a barbershop
 
 ## Demo
 
-![BookBot demo conversation](Screenshot 2026-06-28 at 08.52.01.png)
+![BookBot demo conversation](demo.png)
 
 > The bot greets customers, presents the services menu, collects name, service, and preferred time through natural conversation, then confirms and logs the booking.
 
